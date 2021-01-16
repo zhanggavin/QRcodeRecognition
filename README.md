@@ -1,2 +1,2 @@
-# mssql
-sql translate
+opencv
+图像识别
